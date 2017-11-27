@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/bio_alg_task_2.dir/main.cpp.o  -o bio_alg_task_2 
